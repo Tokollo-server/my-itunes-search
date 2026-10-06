@@ -49,7 +49,6 @@ cd my-itune-project
 
 npm run dev
 
-- The app will be available at http://localhost:3000
 
 ---
 
